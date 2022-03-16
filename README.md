@@ -1,0 +1,1 @@
+# an-infinite-adventure-shitty-admin-command
